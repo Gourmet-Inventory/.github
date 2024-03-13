@@ -5,8 +5,9 @@
 </br>
 <h3>Problemas com organização do seu estoque? Não consegue manter controle das validades e quantidades dos seus alimentos?</h3>
 Nosso sistema auxilia a organização e controle do seu estoque, de forma que melhore a qualidade do alimentos e diminua os desperdícios.      
+</br>
 
-## **Tecnologias utilizada**
+## **Tecnologias utilizadas**
 
 **Front-end:** HTML, CSS, JavaScript, React 
 
