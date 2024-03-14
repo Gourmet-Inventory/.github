@@ -1,4 +1,5 @@
-<!-- ![logo1](https://github.com/AniMoons-SPTech/MoniToons/assets/89167232/ba1446d7-4927-4904-a5ef-ec6b7780fe46) -->
+![Possíveis_Paletas__2_-removebg](https://github.com/Gourmet-Inventory/.github/assets/89167232/de7ad406-ea64-4aea-b39b-b2279a2b4a6a)
+
 <h1>Gourmet Inventory</h1>
 <h2> Prazer, somos a Gourmet Inventory o seu novo ajudante de estoque! </h2> 
 
